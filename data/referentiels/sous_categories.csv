@@ -1,0 +1,51 @@
+﻿sous_categorie_id;categorie_id;sous_categorie
+1;CAT01;Canapés
+2;CAT01;Fauteuils
+3;CAT01;Tables basses
+4;CAT01;Meubles TV
+5;CAT01;Bibliothèques
+6;CAT02;Lits
+7;CAT02;Matelas
+8;CAT02;Chevets
+9;CAT02;Armoires
+10;CAT02;Commodes
+11;CAT03;Tables
+12;CAT03;Chaises
+13;CAT03;Tabourets
+14;CAT03;Rangements cuisine
+15;CAT03;Accessoires repas
+16;CAT04;Vases
+17;CAT04;Cadres
+18;CAT04;Miroirs
+19;CAT04;Objets décoratifs
+20;CAT04;Horloges
+21;CAT05;Lampes à poser
+22;CAT05;Lampadaires
+23;CAT05;Suspensions
+24;CAT05;Appliques
+25;CAT05;Éclairage extérieur
+26;CAT06;Coussins
+27;CAT06;Plaids
+28;CAT06;Rideaux
+29;CAT06;Linge de lit
+30;CAT06;Linge de bain
+31;CAT07;Étagères
+32;CAT07;Boîtes
+33;CAT07;Paniers
+34;CAT07;Dressings
+35;CAT07;Rangements modulaires
+36;CAT08;Café
+37;CAT08;Petit-déjeuner
+38;CAT08;Cuisine
+39;CAT08;Entretien
+40;CAT08;Confort
+41;CAT09;Mobilier jardin
+42;CAT09;Barbecue
+43;CAT09;Pots et jardinières
+44;CAT09;Éclairage jardin
+45;CAT09;Accessoires extérieur
+46;CAT10;Bureaux
+47;CAT10;Chaises de bureau
+48;CAT10;Rangements bureau
+49;CAT10;Lampes de bureau
+50;CAT10;Accessoires bureau
