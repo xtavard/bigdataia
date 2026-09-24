@@ -1,0 +1,51 @@
+﻿produit_id;categorie_id;sous_categorie_id;marque_id;fournisseur_id;nom_produit;description;matiere_principale;couleur_principale;style
+P00001;CAT09;SC041;MAR005;FOU043;Canapé Relax;Canapé extérieur design pour profiter du jardin en famille.;Eponge PVC;Beige;Scandinave
+P00002;CAT10;SC048;MAR019;FOU013;Shelving Unit;Rangement multifonctionnel pour documents et accessoires.;Métal léger et résistant;Mat noir;Contemporain minimaliste
+P00003;CAT03;SC015;MAR005;FOU016;Couteau Multifonction;Couteau robuste pour toutes les préparations culinaires, pratique et ergonomique.;Acier inoxydable;Blanc;Contemporain
+P00004;CAT09;SC044;MAR025;FOU017;Lampe Solaire Pix;Lampe solaire design pour éclairer votre jardin avec un design minimaliste et élégant.;Plastique;Noir;Contemporain
+P00005;CAT08;SC038;MAR029;FOU034;Mixeur Versatile;Meilleur ami des gourmets, ce mixeur multi-fonctions prépare en un tour de main smoothies, sauces et pâtisseries.;Acrylique et aluminium;Mat noir;Contemporain et minimaliste
+P00006;CAT01;SC002;MAR001;FOU006;Flanelo;Fauteuil confortable avec assise et dossier rembourrés.;Cuir synthetic;Beige;Scandinave
+P00007;CAT03;SC015;MAR022;FOU045;Assiette Mesuretemp;Assiette en porcelaine blanche avec motif éclats de verre pour une cuisine moderne et élégante.;Porcelaine;Blanc;Retro Futuriste
+P00008;CAT08;SC036;MAR021;FOU006;Cafetière Press;Cafetière press ergonomique pour un café crémeux et ardens.;Inox poli;Émail mat noire;Scandinave minimaliste
+P00009;CAT06;SC027;MAR006;FOU048;Plaid WinterWarm;Plaid épais et douillet pour une chaleur cocooning pendant vos soirées à la maison.;Coton velours;Vert émeraude;Contemporain
+P00010;CAT08;SC038;MAR022;FOU034;Sofa-Couch Microfibre;Confort maximal avec sa structure en microfibre résistante et facilement nettoyable.;Microfibre;Beige;Contemporain
+P00011;CAT10;SC049;MAR005;FOU041;Lampe WorkLite;Lampe de bureau épurée offrant une lumière douce et concentrée.;Aluminium et verre;Noir;Contemporain
+P00012;CAT05;SC022;MAR012;FOU010;Lampe Scorpio;Lampe design aux lignes épurées, idéale pour éclairer les espaces contemporains.;Aluminium anodisé;Blanc éclatant;Rétro-futuriste
+P00013;CAT03;SC014;MAR010;FOU016;Boite à épices Magasinage;Organise et protège vos épices dans une boîte à couvercle hermétique.;Plastique renforcé;Beige naturel;Contemporain
+P00014;CAT02;SC006;MAR007;FOU036;Lit Minimal;Lit moderne avec un design minimaliste et une structure robuste.;Acier et tissu polyester;Gris anthracite;Scandinave
+P00015;CAT05;SC023;MAR012;FOU019;Vitalia;Suspension moderne offrant une lumière douce et équilibrée pour votre salon.;Aluminium et verre;Mat anthracite;Contemporain
+P00016;CAT04;SC017;MAR001;FOU003;Cadre Noir Urban;Cadre élégant pour vos photos et tableaux, doté d'une finition mate et sobre.;Plastique résistant;Noir;Contemporain
+P00017;CAT06;SC030;MAR002;FOU034;Terry Décontracté;Absorbant et doux, ce terry de bain apporte confort et décontraction.;Terry;Blanc;Rustique élégant
+P00018;CAT02;SC006;MAR005;FOU011;Lit Comfort;Lit moderne avec sommier plat pour une mise en place simple et efficace.;Bois massif teinté;Chêne clair;Scandinave
+P00019;CAT08;SC037;MAR021;FOU043;Toast'N'Bake;Toast et gratin en un, pour un petit-déjeuner délicieux et rapide.;Acier inoxydable et verre;Ébénite;Contemporain et minimaliste
+P00020;CAT01;SC003;MAR008;FOU006;Basilic;Table basse design avec des lignes épurées pour un look moderne et élégant.;Verre trempé et acier inoxydable;Noir;Contemporain
+P00021;CAT10;SC050;MAR019;FOU022;Tablette Espace;Support ergonomique pour ordinateur portable, favorisant la productivité.;Plastique renforcé;Noir mat;Modern
+P00022;CAT03;SC015;MAR004;FOU039;Assiette Essentia;Assiette de cuisine résistante et élégante pour tous vos repas.;Porcelaine;Blanc;Contemporain
+P00023;CAT04;SC018;MAR014;FOU003;Miroir Murale;Grand miroir en verre dépoli pour agrandir l'espace et apporter une note contemporaine à votre intérieur.;Verre dépoli;Blanc;Modern
+P00024;CAT05;SC024;MAR011;FOU009;Applique Murale Nocturne;Luminosité douce pour un environnement apaisant à domicile.;Aluminium;Blanc Satiné;Modern Rétro
+P00025;CAT05;SC023;MAR011;FOU028;Lunaire;Suspension contemporaine offrant une lumière douce et diffusée.;Aluminium poli;Blanc éclatant;Scandinave
+P00026;CAT04;SC018;MAR002;FOU007;Miroir Manhattan;Miroir large avec cadre en cuivre patiné offrant une réflexion claire et élégante.;Verre;Cuivre patiné;Contemporain
+P00027;CAT09;SC041;MAR010;FOU030;Canapé Relaxo;Canapé extérieur robuste pour profiter des beaux jours.;Plastique résistant;Beige;Scandinave
+P00028;CAT10;SC047;MAR006;FOU002;Chaise Espace;Chaise ergonomique offrant confort et mobilité pour votre espace de travail.;Aluminium et mousse polyuréthane;Grise mat;Contemporain
+P00029;CAT06;SC030;MAR015;FOU020;Tissu Linge;Tissu doux et absorbant pour linge de bain élégant.;Coton & Lin;Beige;Rustique contemporain
+P00030;CAT09;SC041;MAR025;FOU022;Canapé Relax;Canapé extensible pour profiter des soirées d'été sous la véranda.;Tissu résistant;Blanc clair;Contemporain
+P00031;CAT09;SC044;MAR023;FOU043;Lampe Pagaie;Lampe de jardin design et robuste, idéale pour éclairer patios et allées.;Aluminium et polyester;Blanc;Moderne
+P00032;CAT03;SC015;MAR001;FOU006;Fourchette Elegance;Fourchette en acier inoxydable pour un repas élégant et durable.;Acier inoxydable;Polished silver;Modern & Chic
+P00033;CAT06;SC026;MAR007;FOU017;Coussin Relax;Coussin moelleux pour une détente instantanée sur les canapés et fauteuils.;Coton doux;Beige clair;Scandinave minimaliste
+P00034;CAT03;SC014;MAR010;FOU001;Panier Multifonction;Panier en coton robuste pour ranger et organiser vos ustensiles de cuisine.;Coton;Beige;Rustique contemporain
+P00035;CAT09;SC042;MAR024;FOU026;Barbecue Electro;Barbecue à induction facile à utiliser pour un grilage rapide et homogène.;Acier inoxydable;Étincelante noire;Contemporain
+P00036;CAT09;SC042;MAR024;FOU011;Barbecool;Barbecue portable et durable pour vos soirées en plein air.;Acier inoxydable;Mat noir;Rustique contemporain
+P00037;CAT04;SC017;MAR004;FOU021;Cadre Moderne;Cadre minimaliste pour encadrer vos photos et œuvres d'art avec style.;Alliage d'aluminium;Mat noir;Scandinave
+P00038;CAT10;SC048;MAR019;FOU041;Cubio;Meuble multifonctionnalité avec 4 compartiments et 2 étagères ajustables.;MDF peint;Blanc cassé;Contemporain
+P00039;CAT08;SC038;MAR029;FOU003;FoodiMix;Mixeur multifonctionnalité pour une préparation rapide et efficace de vos recettes.;Plastique durable, acier inoxydable;Mat noire;Contemporain et élégant
+P00040;CAT03;SC015;MAR005;FOU025;Fourchette Elegance;Fourchette en acier inoxydable de haute qualité, idéale pour tous vos repas.;Acier inoxydable;Inoxydable (chrome);Contemporain
+P00041;CAT02;SC006;MAR001;FOU036;Lit Élégant;Lit moderne avec un design minimaliste offrant un sommeil réparateur.;Bois massif teck;Chêne clair;Scandinave
+P00042;CAT02;SC010;MAR003;FOU009;Commode Moderne;Commode élégante avec 4 tiroirs pour un rangement optimal.;Bois massif;Chêne clair;Scandinave
+P00043;CAT08;SC039;MAR020;FOU042;Brosse à poils flexibles;Brosse efficace pour nettoyer tous les coins des meubles et surfaces.; plastique durable, poils synthétiques;gris anthracite;élégant et minimaliste
+P00044;CAT05;SC025;MAR029;FOU002;Lampe Murale Béton;Lampe murale design pour extérieur, offrant une lumière douce et naturelle.;Béton;Grise;Contemporain
+P00045;CAT07;SC034;MAR005;FOU041;Dressing Multi-Compartiments;Dressing design moderne offrant 6 compartiments pour un rangement optimal de vos vêtements et accessoires.;Plastique résistant;Blanc;Contemporain
+P00046;CAT01;SC001;MAR008;FOU003;Canapé Relax;Canapé à múltiples places offrant un confort inégalé avec sa coussinage épais et sa structure robuste.;Simili cuir;Beige clair;Scandinave
+P00047;CAT02;SC008;MAR005;FOU011;Chevet Élégant;Chevet minimaliste avec des lignes sobres pour une chambre moderne et fonctionnelle.;MDF peint;Blanc cassé;Contemporain
+P00048;CAT02;SC008;MAR005;FOU009;Chevet Minimal;Chevet élégant avec un design minimaliste et une surface plane.;Mélamine;Noir mat;Contemporain
+P00049;CAT03;SC011;MAR021;FOU045;Table Repas Urban Chic;Table de cuisine moderne pour 6 convives, idéale pour les repas en famille.;Mélamine;Blanc Satiné;Scandinave
+P00050;CAT10;SC047;MAR019;FOU001;Chaise ErgoFlex;Chaise confortable avec assise et dossier molletonnés pour un soutien optimal durant la journée de travail.;Polypropylène et mousse polyuréthane;Beige;Modern industriel
