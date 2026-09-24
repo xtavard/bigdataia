@@ -116,7 +116,7 @@ for numero_categorie, (categorie,sous_cats) in enumerate (catalogue.items(), sta
     for sous_categorie in sous_cats :
         sous_categorie_id = f"SC{numero_sous_categorie:03d}"
         sous_categories.append({
-            "sous_categorie_id" : numero_sous_categorie,
+            "sous_categorie_id" : sous_categorie_id,
             "categorie_id": categorie_id,
             "sous_categorie":sous_categorie
             })
