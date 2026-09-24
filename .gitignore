@@ -1,10 +1,20 @@
+#Python
 .venv/
 __pycache__/
-.ipynb_checkpoints/
 *.pyc
 
+#Jupyter
+.ipynb_checkpoints/
+
+#Données brutes et transformées
 data/raw/
 data/processed/
 
+# Modèles et résultat volumineux
 models/
 outputs/
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
